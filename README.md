@@ -1,6 +1,6 @@
 # Car-Rental-System
-Technology Used:-
-For front-end:
+Technology Used:-<br>
+For front-end:<br>
   HTML, CSS, JS<br>
 For back-end:<br>  
   Python, Django
